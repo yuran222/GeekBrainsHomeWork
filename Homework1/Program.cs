@@ -72,13 +72,13 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-Console.WriteLine("Введите число ");
-int x = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите число ");
+// int x = Convert.ToInt32(Console.ReadLine());
 
-int n = 2;
+// int n = 2;
 
-for (int i = 2; i <= x; i = i + 2)
-{
-    Console.Write(n+", ");
-    n = n + 2;
-}
+// for (int i = 2; i <= x; i = i + 2)
+// {
+//     Console.Write(n+", ");
+//     n = n + 2;
+// }
