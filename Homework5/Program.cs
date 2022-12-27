@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
 // Задайте массив заполненный случайными положительными трёхзначными числами. Напишите программу, которая покажет количество чётных чисел в массиве.
 
 // [345, 897, 568, 234] -> 2
@@ -34,9 +33,6 @@ Console.WriteLine("Hello, World!");
 // int size = Convert.ToInt32(Console.ReadLine());
 // int[] NewArray = Random3digitArray (size);
 // show (NewArray);
-
-
-
 
 
 
