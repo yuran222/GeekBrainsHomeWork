@@ -95,3 +95,20 @@ else
 // int N = Convert.ToInt32(Console.ReadLine());
 
 // cube (N);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
