@@ -1,0 +1,15 @@
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\bin\Debug\net6.0\Homrwork8.exe
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\bin\Debug\net6.0\Homrwork8.deps.json
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\bin\Debug\net6.0\Homrwork8.runtimeconfig.json
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\bin\Debug\net6.0\Homrwork8.dll
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\bin\Debug\net6.0\Homrwork8.pdb
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\Homrwork8.csproj.AssemblyReference.cache
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\Homrwork8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\Homrwork8.AssemblyInfoInputs.cache
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\Homrwork8.AssemblyInfo.cs
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\Homrwork8.csproj.CoreCompileInputs.cache
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\Homrwork8.dll
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\refint\Homrwork8.dll
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\Homrwork8.pdb
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\Homrwork8.genruntimeconfig.cache
+C:\Users\yuran\Desktop\GeekBrains\HomeWorks\Homrwork8\obj\Debug\net6.0\ref\Homrwork8.dll
